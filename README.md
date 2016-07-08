@@ -1,8 +1,38 @@
 ### Docker hands-on session @ SUSE
 
+0. prerequisities
+    
+    
+```
+$ zypper in docker
+```
+```
+$ sudo usermod -Ga .... 
+```
+
+check that ipv4 forwarding is working via:
+
+if not, run
+```
+$ sudo sysctl -w.net.ipv4 ip_forward=1
+$ sudo systemctl restart (or reboot)
+```
+
+check result again
+
+```
+$ git clone <this repo>
+```
+
+1. nginx
+2. redis
+3. owncloud
+4. docker b-day application
+
+
 **nginx**
 
-openSUSE dockerfile for nginx
+openSUSE Dockerfile for nginx
 
 To build:
 
@@ -41,3 +71,7 @@ To test:
         # redis-cli -h 127.0.0.1 -p <port>
         redis 127.0.0.1:<port>ping
             PONG
+
+**owncloud**
+
+**docker b-day application**

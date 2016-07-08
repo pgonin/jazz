@@ -1,6 +1,6 @@
 ### Docker hands-on session @ SUSE
 
-1. nginx
+**nginx**
 
 openSUSE dockerfile for nginx
 
@@ -16,11 +16,11 @@ To test:
 
     # curl http://localhost
 
-2. redis
+**redis**
 
 OpenSUSE Dockerfile for Redis - open source, advanced key-value cache and store.  
 
-** you need to install redis on your machine to test it ( zypper in redis ) **
+***you need to install redis on your machine to test it ( zypper in redis )***
 
 To build:
 

@@ -37,15 +37,8 @@ $ sudo sysctl -w.net.ipv4 ip_forward=1
 Clone this repository
 
 ```
-$ git clone <this repo>
+$ git clone https://github.com/Evalle/docker_hands_on.git
 ```
-
-
-1. nginx
-2. redis
-3. owncloud
-4. docker b-day application
-
 
 **nginx**
 
@@ -91,4 +84,5 @@ To test:
 
 **owncloud**
 
-**docker b-day application**
+**Do-it-yourself!**
+Now it's time to get your hands dirty! Do it yourself! 

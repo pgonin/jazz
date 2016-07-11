@@ -1,10 +1,10 @@
 ### Docker hands-on session @ SUSE
 
-[Prerequisites](#Prerequisites)
-[Nginx](#Nginx)
-[Redis](#Redis)
-[Owncloud](#Owncloud)
-[Do it yourself](#Do it yourslef)
+- [Prerequisites](#Prerequisites)
+- [Nginx](#Nginx)
+- [Redis](#Redis)
+- [Owncloud](#Owncloud)
+- [Do it yourself](#Do it yourslef)
 
 ## Prerequisites
 

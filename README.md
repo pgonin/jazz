@@ -12,7 +12,7 @@ _In case of any errors check official docker + suse howto [here](https://docs.do
 
 Install docker
 ```
-$ zypper in docker
+$ sudo zypper in docker
 ```
 
 Run docker daemon

@@ -10,19 +10,24 @@ $ zypper in docker
 $ sudo usermod -Ga .... 
 ```
 
-check that ipv4 forwarding is working via:
+check if IP Forwarding is enabled:
+
+```
+sysctl net.ipv4.ip_forward 
+```
 
 if not, run
 ```
 $ sudo sysctl -w.net.ipv4 ip_forward=1
-$ sudo systemctl restart (or reboot)
+
 ```
 
-check result again
+Clone this repository
 
 ```
 $ git clone <this repo>
 ```
+
 
 1. nginx
 2. redis

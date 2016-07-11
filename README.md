@@ -1,12 +1,12 @@
 ### Docker hands-on session @ SUSE
 
-- [Prerequisites](#Prerequisites)
+- [prerequisites](#prerequisites)
 - [Nginx](#Nginx)
 - [Redis](#Redis)
 - [Owncloud](#Owncloud)
 - [Do it yourself](#Do it yourslef)
 
-## Prerequisites
+## prerequisites
 
 _In case of any errors check official docker + suse howto [here](https://docs.docker.com/engine/installation/linux/SUSE/)_
 

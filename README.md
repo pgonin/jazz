@@ -1,10 +1,10 @@
 ### Docker hands-on session @ SUSE
 
 - [prerequisites](#prerequisites)
-- [Nginx](#Nginx)
-- [Redis](#Redis)
-- [Owncloud](#Owncloud)
-- [Do it yourself](#Do it yourslef)
+- [nginx](#nginx)
+- [redis](#redis)
+- [owncloud](#owncloud)
+- [do it yourself](#do it yourslef)
 
 ## prerequisites
 
@@ -42,7 +42,7 @@ Clone this repository
 $ git clone https://github.com/Evalle/docker_hands_on.git
 ```
 
-## Nginx
+## nginx
 
 openSUSE Dockerfile for nginx
 
@@ -58,7 +58,7 @@ To test:
 
     # curl http://localhost
 
-## Redis
+## redis
 
 OpenSUSE Dockerfile for Redis - open source, advanced key-value cache and store.  
 
@@ -84,7 +84,7 @@ To test:
         redis 127.0.0.1:<port>ping
             PONG
 
-## Owncloud
+## owncloud
 
-## Do it yourself
+## do it yourself
 Now it's time to get your hands dirty! Do it yourself! 

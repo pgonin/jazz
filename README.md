@@ -1,13 +1,25 @@
 ### Docker hands-on session @ SUSE
 
-0. prerequisities
-    
-    
+0. Prerequisites
+1. Nginx
+2. Redis
+3. Owncloud
+4. Do-it-yourself
+
+**Prerequisites**
+
+Install docker
 ```
 $ zypper in docker
 ```
+
+Run docker daemon
 ```
-$ sudo usermod -Ga .... 
+$ sudo systemctl start docker
+```
+The docker package creates a new group named **docker**. Users, other than **root** user, must be part of this group to interact with the Docker daemon. You can add users with this command syntax:
+```
+$ sudo /usr/sbin/usermod -a -G docker <username>
 ```
 
 check if **IP Forwarding** is enabled:

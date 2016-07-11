@@ -1,6 +1,7 @@
 ### Docker hands-on session @ SUSE [12.07.16]
 
 - [prerequisites](#prerequisites)
+- [cheat sheet](#Cheat sheet)
 - [nginx](#nginx)
 - [redis](#redis)
 - [owncloud](#owncloud)
@@ -47,6 +48,8 @@ Pull some docker images
 $ docker pull opensuse:42.1 
 $ docker pull opensuse:tumbleweed
 ```
+
+## Cheat sheet
 
 
 ## nginx

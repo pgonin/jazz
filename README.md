@@ -4,7 +4,7 @@
 - [nginx](#nginx)
 - [redis](#redis)
 - [owncloud](#owncloud)
-- [do it yourself](#do-it-yourslef)
+- [do it yourself](#do-it-yourself)
 
 ## prerequisites
 
@@ -33,7 +33,6 @@ sysctl net.ipv4.ip_forward
 if not, run
 ```
 $ sudo sysctl -w.net.ipv4 ip_forward=1
-
 ```
 
 Clone this repository
@@ -45,7 +44,8 @@ $ git clone https://github.com/Evalle/docker_hands_on.git
 Pull some docker images
 
 ```
-$ docker pull opensuse ubuntu
+$ docker pull opensuse:42.1 
+$ docker pull opensuse:tumbleweed
 ```
 
 

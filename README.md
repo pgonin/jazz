@@ -8,6 +8,8 @@
 
 ## prerequisites
 
+_In case of any errors check official docker + suse howto [here](https://docs.docker.com/engine/installation/linux/SUSE/)_
+
 Install docker
 ```
 $ zypper in docker

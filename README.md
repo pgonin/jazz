@@ -10,7 +10,7 @@ $ zypper in docker
 $ sudo usermod -Ga .... 
 ```
 
-check if IP Forwarding is enabled:
+check if **IP Forwarding** is enabled:
 
 ```
 sysctl net.ipv4.ip_forward 

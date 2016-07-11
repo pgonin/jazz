@@ -50,7 +50,7 @@ $ docker pull opensuse:tumbleweed
 ```
 
 ## cheat-sheet
-### Lifecycle
+### Containers Lifecycle
 
 * [`docker create`](https://docs.docker.com/reference/commandline/create) creates a container but does not start it.
 * [`docker rename`](https://docs.docker.com/engine/reference/commandline/rename/) allows the container to be renamed.

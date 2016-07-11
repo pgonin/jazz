@@ -4,7 +4,7 @@
 - [nginx](#nginx)
 - [redis](#redis)
 - [owncloud](#owncloud)
-- [do it yourself](#do it yourslef)
+- [do it yourself](#do-it-yourslef)
 
 ## prerequisites
 
@@ -86,5 +86,5 @@ To test:
 
 ## owncloud
 
-## do it yourself
+## do-it-yourself
 Now it's time to get your hands dirty! Do it yourself! 

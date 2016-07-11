@@ -1,10 +1,10 @@
 ### Docker hands-on session @ SUSE
 
-0. [prerequisites](#Prerequisites)
-1. [nginx](#Nginx)
-2. [redis](#Redis)
+0. [prerequisites](#prerequisites)
+1. [nginx](#nginx)
+2. [redis](#redis)
 3. [owncloud](#owncloud)
-4. [do-it-yourself](#Do-it-yourslef)
+4. [do-it-yourself](#do-it-yourslef)
 
 ## prerequisites
 

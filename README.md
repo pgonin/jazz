@@ -93,9 +93,7 @@ To test:
 
 ## owncloud
 
-Let's do some different stuff. This repo contains a recipe for making Docker container for OwnCloud on Fedora. 
-The docker file chooses httpd and sqlite for owncloud. These can easily be changed
-by changing what rpms get installed. 
+Let's do some different stuff. This repo contains a recipe for making Docker container for OwnCloud on openSUSE Leap 42.1.
 
 Perform the build
 
@@ -107,10 +105,9 @@ Check the image out.
 
 Run it:
 
-    # docker run -d -p 443:443 <yourname>/owncloud
+    # docker run -d -p 80:80 <yourname>/owncloud
 
 You should now be able to view the OwnCloud setup page by going to https://localhost/owncloud
-
 
 ## do-it-yourself
 Now it's time to get your hands dirty! Do it yourself! 

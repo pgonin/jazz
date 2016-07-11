@@ -42,6 +42,13 @@ Clone this repository
 $ git clone https://github.com/Evalle/docker_hands_on.git
 ```
 
+Pull some docker images
+
+```
+$ docker pull opensuse ubuntu
+```
+
+
 ## nginx
 
 openSUSE Dockerfile for nginx

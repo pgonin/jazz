@@ -1,4 +1,4 @@
-### Docker hands-on session @ SUSE
+### Docker hands-on session @ SUSE [12.07.16]
 
 - [prerequisites](#prerequisites)
 - [nginx](#nginx)

@@ -39,7 +39,7 @@ $ sudo sysctl -w.net.ipv4 ip_forward=1
 Clone this repository
 
 ```
-$ git clone https://github.com/Evalle/docker_hands_on.git
+$ git clone https://github.com/Evalle/jazz.git
 ```
 
 Pull some docker images
